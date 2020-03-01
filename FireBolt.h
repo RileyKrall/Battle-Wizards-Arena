@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// One of the first spells to be cast by a wizard. When casted, it spawns a projectile
 
 #pragma once
 
