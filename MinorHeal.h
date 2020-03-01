@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// One of the first spells, heals another player when casted
 
 #pragma once
 
