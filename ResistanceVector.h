@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Object that describes a wizards resistances to different types of damage. Used in damage computations.
 
 #pragma once
 
