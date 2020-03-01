@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Object used in damage computations to determine how much damage a player is inflicted.
 
 #pragma once
 
