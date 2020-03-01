@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// UInterface that allows the wizard to interact with world object
 
 #pragma once
 
