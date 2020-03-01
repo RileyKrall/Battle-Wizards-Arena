@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// UInterface for actors that will need to activate a cooldown or timer.
 
 #pragma once
 
