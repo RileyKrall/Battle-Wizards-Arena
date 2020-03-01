@@ -1,5 +1,5 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
+// Actor that represents the player and its input. Keeps track of spells and other important player information
+// that occurs in a game. Will also call gamemode to respawn player when necessary.
 #pragma once
 
 #include "CoreMinimal.h"
