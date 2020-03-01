@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Chunk of the voxel system in a VGrid. The chunk deals with surface computations, generation, and optimizations.
 
 #pragma once
 
