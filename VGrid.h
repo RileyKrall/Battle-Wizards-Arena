@@ -1,4 +1,5 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Voxel coordinate grid that keeps track of all chunks in the grid. Also manages cross chunk editing.
+// Chunks are represented by a VObject.
 
 #pragma once
 
