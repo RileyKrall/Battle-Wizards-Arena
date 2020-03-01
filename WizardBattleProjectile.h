@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Temporary test projectile. Currently damages a wizard and will destroy voxel terrain on collision.
 
 #pragma once
 
