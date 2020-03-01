@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Character that the player will possess. Has the ability to move, jump, blink, cast spells, and edit voxel terrain.
 
 #pragma once
 
