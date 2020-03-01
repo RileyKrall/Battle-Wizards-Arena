@@ -1,5 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
+// Unimplemented spell. Will be an asteroid that falls from the sky. Will destroy voxel landscape on collision.
 #pragma once
 
 #include "CoreMinimal.h"
