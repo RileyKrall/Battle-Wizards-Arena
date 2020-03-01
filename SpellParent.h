@@ -1,5 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
+// Parent class to all spells castable by a wizard. Is used to perform spell effects/actions whe "casted".
 #pragma once
 
 #include "CoreMinimal.h"
