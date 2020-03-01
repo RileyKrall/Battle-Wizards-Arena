@@ -1,4 +1,5 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Holds all information that will last accross all maps, that the player may visit. This is also where the
+// base networking functionality takes place, like hosting and joining games.
 
 #pragma once
 
