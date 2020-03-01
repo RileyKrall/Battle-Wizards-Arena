@@ -1,5 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
+// Not fully implemented gamemode. Currently allows the player to respawn after death, and holds pointer to voxel manager
 #pragma once
 
 #include "CoreMinimal.h"
