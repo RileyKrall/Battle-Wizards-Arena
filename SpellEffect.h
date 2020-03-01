@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Old implementation of what happens when a spellParent gets casted. May remove if prove unneeded.
 
 #pragma once
 
