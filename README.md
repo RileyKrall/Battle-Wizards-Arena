@@ -1,4 +1,4 @@
-# Battle Wizards Arena - Current
+# Battle Wizards Arena
 Implemented algorithm inspired by: http://paulbourke.net/geometry/polygonise/
 
 Battle Wizards Arena is a personal interest project, with the goal of providing fun and interesting gameplay, in addition to allowing me experiment with game mechanics I am interested in.
